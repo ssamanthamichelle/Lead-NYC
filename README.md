@@ -3,9 +3,9 @@
 Data Source- Source: https://data.cityofnewyork.us/Environment/Lead-At-The-Tap-Results/kdqv-
 qs7p
 
-Dataset in 'Lead_At_The_Tap_Results.csv'
+#Dataset- 'Lead_At_The_Tap_Results.csv'
 
-SQL script- 'lead_script.sql'
+#SQL script- 'lead_script.sql'
 
 This dataset contains records on concentrations of lead and copper found in tap water in several locations across New York City.
 The quantities of lead and copper are measured in mg/L of water. These measurements are taken 3 different times: once upon opening the tap, again after 1-2 minutes of letting the water run, and finally after the water has run for 5 minutes.
