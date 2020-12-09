@@ -8,8 +8,10 @@ good thing i saved it 😏
 
 jk @ NYC open data if u want me to take it down, i will... just let me know...
 
-
-
+.
+.
+.
+.
 
 * Lead_At_The_Tap_Results.csv   -- dataset I queried
 * lead_script.sql               -- script containing SQL queries
@@ -33,3 +35,5 @@ The results of my analysis are not what I anticipated.
 I thought that drinking water in NY contained no lead, which it technically does not, but by the time it reaches our taps it does.
 I was surprised to discover that there were only 17 records of 0.0 mg/L initial concentration of copper in tap water.
 I also assumed that letting the water run would decrease the concentration of lead, but that is not always the case!
+
+
