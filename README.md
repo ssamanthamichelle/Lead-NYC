@@ -2,11 +2,14 @@
 
 Data Source- Source: https://data.cityofnewyork.us/Environment/Lead-At-The-Tap-Results/kdqv-qs7p
 
-... I think that link doesn't work anymore :(
+... I don't have access to that dataset anymore :(
 
-Also the dataset has more records now.
+good thing i saved it 😏
 
-New Dataset: https://data.cityofnewyork.us/Environment/Free-Residential-at-the-tap-Lead-and-Copper-Data/k5us-nav4
+jk @ NYC open data if u want me to take it down, i will... just let me know...
+
+
+
 
 * Lead_At_The_Tap_Results.csv   -- dataset I queried
 * lead_script.sql               -- script containing SQL queries
