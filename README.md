@@ -1,11 +1,15 @@
 # Lead-NYC
 
-Data Source- Source: https://data.cityofnewyork.us/Environment/Lead-At-The-Tap-Results/kdqv-
-qs7p
+Data Source- Source: https://data.cityofnewyork.us/Environment/Lead-At-The-Tap-Results/kdqv-qs7p
 
-#Dataset- 'Lead_At_The_Tap_Results.csv'
+... I think that link doesn't work anymore :(
 
-#SQL script- 'lead_script.sql'
+Also the dataset has more records now.
+
+New Dataset: https://data.cityofnewyork.us/Environment/Free-Residential-at-the-tap-Lead-and-Copper-Data/k5us-nav4
+
+* Lead_At_The_Tap_Results.csv   -- dataset I queried
+* lead_script.sql               -- script containing SQL queries
 
 This dataset contains records on concentrations of lead and copper found in tap water in several locations across New York City.
 The quantities of lead and copper are measured in mg/L of water. These measurements are taken 3 different times: once upon opening the tap, again after 1-2 minutes of letting the water run, and finally after the water has run for 5 minutes.
